@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2 align="left">Olá! Eu sou a Rebeca Gama
 
-<!--
-**RebecaGama/RebecaGama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://instagram.com/rebeca__gama" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="26" alt ="discord logo" />
+  </a>
+  <a href="rebecagamam@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="26" alt ="logótipo do Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/rebeca-gama-/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="26" alt ="linkedin logo" />
+  </a>
+   <a href="rebecagama" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="38" height="26" alt ="discord logo" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<a href="https://github.com/RebecaGama">
+<img src="https://github-readme-stats.vercel.app/api?username=RebecaGama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaGama&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+ 
+###
+ 
+###
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
+</div>
