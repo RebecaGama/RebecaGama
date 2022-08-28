@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/rebeca-gama-/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="26" alt ="linkedin logo" />
   </a>
-   <a href="rebecagama" target="_blank">
+   <a href="rebecagama#5792" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="38" height="26" alt ="discord logo" />
   </a>
 </div>
