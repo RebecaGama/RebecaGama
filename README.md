@@ -6,7 +6,7 @@
   <a href="https://instagram.com/rebeca__gama" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="26" alt ="discord logo" />
   </a>
-  <a href="https://is.gd/vZZ4uu" target="_blank">
+  <a href="malito:rebecagamam@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="26" alt ="logótipo do Gmail" />
   </a>
   <a href="https://linkedin.com/in/rebeca-gama-/" target="_blank">
