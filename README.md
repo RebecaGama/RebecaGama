@@ -6,7 +6,7 @@
   <a href="https://instagram.com/rebeca__gama" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="26" alt ="discord logo" />
   </a>
-  <a href= "mailto:rebecagamam@gmail.com?subject= (Opcional) assunto da mensagem&body= (Opcional)corpo da mensagem" target="_blank">
+  <a href= "mailto:rebecagamam@gmail.com?subject= .&body= ." target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="26" alt ="logótipo do Gmail" />
   </a>
   <a href="https://linkedin.com/in/rebeca-gama-/" target="_blank">
