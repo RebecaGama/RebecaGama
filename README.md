@@ -4,14 +4,11 @@
 
 <br>
 
-<div align="left">
-<a href="https://github.com/RebecaGama/github-readme-stats ">
-<img align = "left" src="https://github-readme-stats.vercel.app/api?username=RebecaGama&count_private=true&show_icons=true&theme=radical"/>
-</a>
-
-<a href="https://github.com/RebecaGama/convoychat ">
-<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaGama&theme=radical"/>
-</a>
+<div align="center">
+  <a href="https://github.com/RebecaGama">
+  <img height="center" src="https://github-readme-stats.vercel.app/api?username=RebecaGama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaGama&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <br><br><br><br><br><br>
 
