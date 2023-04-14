@@ -8,7 +8,7 @@
 <br>
 • 📧 Contate-me: rebecagamam@gmail.com | rebeca.moraes@fatec.sp.gov.br
 <br>
-• 🔗 Instagram: https://www.instagram.com/rebeca__gama/
+• 🔗 Instagram: [@rebeca__gama](https://www.instagram.com/rebeca__gama/)
 
 <br>
 
