@@ -6,9 +6,9 @@
 <br>
 • ⚛ Desenvolvedora Front-End - Grupo Átomo
 <br>
-• 📧 Contate-me: rebecagamam@gmail.com | rebeca.moraes@fatec.sp.gov.br
+• 🔗 Instagram: @rebeca__gama
 <br>
-• 🔗 Instagram: [@rebeca__gama](https://www.instagram.com/rebeca__gama/)
+• 📧 Contate-me: rebecagamam@gmail.com | rebeca.moraes@fatec.sp.gov.br
 
 <br>
 
