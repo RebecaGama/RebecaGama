@@ -1,4 +1,4 @@
-## Olá!!! Eu sou a Rebeca Gama 👋🏽
+## Olá, Eu sou a Rebeca Gama 👋🏽
 
 ###
 
