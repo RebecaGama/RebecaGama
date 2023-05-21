@@ -4,8 +4,6 @@
 
 • 📚 Cursando 3° semestre em Análise e Desenvolvimento de Sistemas
 <br>
-• ⚛ Desenvolvedora Front-End - Grupo Átomo
-<br>
 • 🔗 Instagram: @rebeca__gama
 <br>
 • 📧 Contate-me: rebecagamam@gmail.com | rebeca.moraes@fatec.sp.gov.br
