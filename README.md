@@ -11,16 +11,8 @@
 • 📧 Contate-me: rebecagamam@gmail.com | rebeca.moraes@fatec.sp.gov.br
 
 <br>
-
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RebecaGama&count_private=true&show_icons=true&theme=radical" />
-  </a>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebecaGama&show_icons=true&theme=moltack&include_all_commits=true&hide_rank=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaGama&theme=moltack&layout=donut&hide_rank=true&langs_count=10)](https://github.com/RebecaGama/github-readme-stats)
+  
 </div>
-
- <div align="center">
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaGama&layout=compact&theme=dark&hide_progress=true)](https://github.com/RebecaGama/github-readme-stats)
-  <!--![Top Lang](https://github-readme-stats.vercel.app/api?username=RebecaGama&show_icons=true&theme=radical)-->
-
- </div>
