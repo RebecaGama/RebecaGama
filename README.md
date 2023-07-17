@@ -2,7 +2,7 @@
 
 ###
 
-• 📚 Cursando 3° semestre em Análise e Desenvolvimento de Sistemas na FATEC Prof. Jessen Vidal
+• 📚 Cursando 4° semestre em Análise e Desenvolvimento de Sistemas na FATEC Prof. Jessen Vidal
 <br>
 • 🔗 Instagram: @rebeca__gama
 <br>
