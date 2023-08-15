@@ -2,7 +2,7 @@
   Técnica em Desenvolvimento de Sistemas, estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal e estagiária front-end.
 <p align="center">
     <a href="#">
-      <img src="https://img.shields.io/github/followers/rebecagama.svg?style=social&label=Follow&maxAge=2592000">
+      <img src="https://img.shields.io/github/followers/reecagama.svg?style=social&label=Follow&maxAge=2592000">
     </a>
     <a href="#">
       <img src="https://komarev.com/ghpvc/?username=rebecagama" alt="https://github.com/rebecagama" />
