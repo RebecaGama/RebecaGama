@@ -32,10 +32,12 @@
 ![NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
 ## Estatisticas
-
-![rebecagama's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebecagama&count_private=true&icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecagama&layout=compact&theme=onedark)
-
+<div align="center">
+  <a href="https://github.com/RebecaGama">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RebecaGama&show_icons=true&theme=onedark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaGama&layout=compact&theme=onedark" />
+  </a>
+</div>
 
 
 
@@ -43,5 +45,3 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rebecagama/rebecagama)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebecagamam@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/rebeca__gama)
-
-<h2  align="center">💻 Confira meus repositórios 👇🏽 </h2>
