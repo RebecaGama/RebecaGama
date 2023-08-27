@@ -1,14 +1,5 @@
 <h1 align="center">Olá👋🏽, sou Rebeca Gama</h1>
   Técnica em Desenvolvimento de Sistemas, estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal e estagiária de desenvolvimento Front-End
-<p align="center">
-    <a href="#">
-      <img src="https://img.shields.io/github/followers/rebecagama.svg?style=social&label=Follow&maxAge=2592000">
-    </a>
-    <a href="#">
-      <img src="https://komarev.com/ghpvc/?username=rebecagama" alt="https://github.com/rebecagama" />
-    </a>
-  </p>
-
 
 ## Tecnologias
 ![html](https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white)
