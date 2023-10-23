@@ -27,10 +27,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaGama&layout=compact&theme=onedark" />
   </a>
 </div>
-
-
-
-## Contate-me
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rebecagama/rebecagama)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebecagamam@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/rebeca__gama)
