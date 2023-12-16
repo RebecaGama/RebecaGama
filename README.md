@@ -4,7 +4,7 @@
 
 ## Um pouco sobre mim
 - 📚 No 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal.
-- 🎓 Entusiasta de tecnologia formada em Desenvolvimento de Sistemas.
+- 🎓 Técnica em Desenvolvimento de Sistemas.
 - 💻 Estagiária encantada pelo mundo do Front-End.
 
 ## Arsenal de Tecnologias
@@ -34,4 +34,5 @@
 
 ## Vamos Conectar!
 - 📫 Mande uma mensagem para [rebecagamam@gmail.com](mailto:rebecagamam@gmail.com).
-- 📱 Quer trocar ideias? Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/rebeca-gama-).
+- 📱 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/rebeca-gama-).
+- 📷 Também estou no [Instagram](https://www.instagram.com/rebeca__gama/)
