@@ -32,7 +32,7 @@
   </a>
 </div>
 
-## Vamos Conectar!
-- 📫 Mande uma mensagem para [rebecagamam@gmail.com](mailto:rebecagamam@gmail.com).
-- 📱 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/rebeca-gama-).
+## Vamos nos Conectar!
+- 📫 Mande uma mensagem para [rebecagamam@gmail.com](mailto:rebecagamam@gmail.com)
+- 📱 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/rebeca-gama-)
 - 📷 Também estou no [Instagram](https://www.instagram.com/rebeca__gama/)
