@@ -1,7 +1,14 @@
-<h1 align="center">Olá👋🏽, sou Rebeca Gama</h1>
-  Técnica em Desenvolvimento de Sistemas, estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal e estagiária de desenvolvimento Front-End
+<div align="center">
+  <h1>Olá, mundo! Eu sou a Rebeca Gama! 👋🏽</h1>
+  <p>Técnica em Desenvolvimento de Sistemas e exploradora do mundo do código.</p>
+</div>
 
-## Tecnologias
+## Sobre mim 👩‍💻
+- 📚 Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal.
+- 🎓 Técnica em Desenvolvimento de Sistemas
+- 💻 Estagiária encantada pelo mundo do Front-End.
+
+## Arsenal Tech 🔧
 ![html](https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,10 +25,14 @@
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
-## Estatísticas
+## Estatísticas 📊
 <div align="center">
   <a href="https://github.com/RebecaGama">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RebecaGama&show_icons=true&theme=onedark" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaGama&layout=compact&theme=onedark" />
   </a>
 </div>
+
+## Vamos Conectar? 🌐
+- 📫 Me envie uma mensagem em [rebecagamam@gmail.com](https://rebecagamam@gmail.com).
+- 📱 Vamos trocar ideias? [LinkedIn](https://www.linkedin.com/in/rebeca-gama-).
