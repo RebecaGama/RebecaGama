@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, mundo! Aqui é a Rebeca Gama! 👋🏽</h1>
+  <h1>Olá, mundo! Aqui é a Rebeca 👋🏽</h1>
 </div>
 
 ## Um pouco sobre mim
