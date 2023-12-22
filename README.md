@@ -5,7 +5,7 @@
 ## Um pouco sobre mim
 - 📚 No 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal.
 - 🎓 Técnica em Desenvolvimento de Sistemas.
-- 💻 Estagiária encantada pelo mundo do Front-End.
+- 💻 Estagiária Front-End.
 
 ## Tecnologias
 ![html](https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white)
