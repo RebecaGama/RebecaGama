@@ -3,7 +3,7 @@
 </div>
 
 ## Um pouco sobre mim
-- 📚 No 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal.
+- 📚 Cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal.
 - 🎓 Técnica em Desenvolvimento de Sistemas.
 - 💻 Estagiária Front-End.
 
