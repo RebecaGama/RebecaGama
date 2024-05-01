@@ -1,4 +1,4 @@
-# Olá, mundo! Aqui é a Rebeca 👋🏽
+# Olá! Aqui é a Rebeca 👋🏽
 <div align="justify">
  <h3 align="left">Um pouco sobre mim </h3>
   <div style="display: inline_block">
