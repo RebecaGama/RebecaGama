@@ -33,6 +33,7 @@
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"> 
    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
+   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" target="_blank">
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">
    <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue" target="_blank">
    <img src="https://img.shields.io/badge/java-FFD43B?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank">
