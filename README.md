@@ -1,6 +1,6 @@
 # Olá! Aqui é a Rebeca 👋🏽
 <div align="justify">
- <h3 align="left">Um pouco sobre mim </h3>
+ 
   <div style="display: inline_block">
   <div>
   - 📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal.
@@ -44,3 +44,5 @@
    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" target="_blank">
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
    <img src="https://img.shields.io/badge/Netlify-00C7B7?&style=for-the-badge&logo=netlify&logoColor=white" target="_blank">
+   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" target="_blank">
+
