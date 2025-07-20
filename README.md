@@ -16,7 +16,7 @@ Console.WriteLine ("Rebeca Gama 👨‍💻");
 ##
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou Instagram! 💌✨
 </p>
 
 <p align="left">
